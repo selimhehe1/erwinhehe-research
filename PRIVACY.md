@@ -1,0 +1,9 @@
+     # Politique de confidentialité — Erwinhehe Research                                                                                                                                                   
+                                                                                                                                                                                                           
+     Dernière mise à jour : 19 octobre 2026                                                                                                                                                                
+                                                                                                                                                                                                           
+     « Erwinhehe Research » est une application d'accès API personnelle, à usage                                                                                                                           
+     unique et personnel. Elle ne collecte, ne stocke ni ne partage aucune donnée                                                                                                                          
+     personnelle d'utilisateurs : l'application n'a pas d'autres utilisateurs que                                                                                                                          
+     son propriétaire. Aucune donnée n'est transmise à des tiers, aucun cookie de                                                                                                                          
+     suivi n'est utilisé. Pour toute question : <ton email>.                                                                                                                                               
